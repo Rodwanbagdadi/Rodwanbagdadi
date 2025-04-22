@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodwan Baghdadi</h1>
 <h3 align="center">A passionate AI Engineer from Jordan</h3>
 
-- 🔭 I’m currently working on **Fake News Detector**
+- 🔭 I’m currently working on **Fake News Detection**
 
 - 🌱 I’m currently learning **TypeScript**
 
