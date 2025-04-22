@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fake News Detector**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **rodwanbagdadi@gmail.com**
 
