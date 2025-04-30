@@ -44,9 +44,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rodwanbagdadi/Rodwanbagdadi/output/snake.svg" alt="Snake animation" />
 
 ###
 
