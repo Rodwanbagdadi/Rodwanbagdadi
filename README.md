@@ -1,6 +1,6 @@
 <img src="Heilbronn_banner.jpg" alt="GitHub Banner" width="100%">
 
-# Hello World, I'm Rodwan, a passionate AI Engineer👋🏻:
+# Hello World!, I'm Rodwan, a passionate AI Engineer👋🏻:
 🔭 currently working on a Fake News Detection website<br> 🎓 studying Mechatronics Engineering at the German Jordanian University
 
 
