@@ -1,4 +1,4 @@
-<img src="Heilbronn_banner.jpg" alt="GitHub Banner" width="100%">
+<img src="Banner.png" alt="GitHub Banner" width="100%">
 
 # Hello World!, I'm Rodwan, a passionate Mechatronics & AI Engineer from Jordan 👋🏻:
 🔭 currently working on a Fitness Tracker app<br> 🎓 Mechatronics Engineering Graduate form the German Jordanian University<br> 📩 get in touch with me by [email](mailto:rodwanbagdadi@gmail.com)
