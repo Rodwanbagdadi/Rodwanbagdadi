@@ -1,5 +1,5 @@
 # 🏄‍♂️ Rodwan Bagdadi
-I'm a mechatronics engineer and aspiring data scientist passionate about solving real-world problems with code. I build machine learning projects from scratch, from planning and coding to testing and deployment. Whether it's detecting fake news or predicting health outcomes, I focus on making my work practical and open for others to learn from.
+I'm a Mechatronics Engineer and aspiring Data Scientist, passionate about solving real-world problems with code. I build machine learning projects from scratch, from planning and coding to testing and deployment. Whether it's detecting fake news or predicting health outcomes, I focus on making my work practical and open for others to learn from.
 
 ---
 ### 🧰 Languages and Tools
