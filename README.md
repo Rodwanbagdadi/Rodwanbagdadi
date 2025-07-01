@@ -23,7 +23,16 @@ I'm a mechatronics engineer and aspiring data scientist passionate about solving
 #
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodwanbagdadi&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodwanbagdadi&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodwanbagdadi&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
  #
