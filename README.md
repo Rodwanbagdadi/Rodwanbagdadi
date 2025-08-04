@@ -20,16 +20,17 @@ I'm a Mechatronics Engineer and aspiring Data Scientist, passionate about solvin
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+
 #
 ### 📊 Stats
 
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodwanbagdadi&show_icons=true&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodwanbagdadi&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodwanbagdadi&layout=compact&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodwanbagdadi&layout=compact&theme=radical&cache_seconds=86400" />
     </td>
   </tr>
 </table>
