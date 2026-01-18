@@ -1,5 +1,5 @@
 # 🏄‍♂️ Rodwan Bagdadi
-I'm a Mechatronics & AI Engineer. I build machine learning projects from scratch, from planning and coding to testing and deployment. Whether it's detecting fake news or predicting health outcomes, I focus on making my work practical and open for others to learn from :)
+Junior Software Developer @ MAKE WORK FLOW GmbH. In my current role, I focus on turning complex and messy operational data into clear, actionable insights that support decision-making. I like to make my work practical and open for others to learn from :)
 
 ---
 ### 🧰 Languages and Tools
