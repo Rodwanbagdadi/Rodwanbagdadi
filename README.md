@@ -21,10 +21,9 @@ I'm a Mechatronics & AI Engineer. I build machine learning projects from scratch
 <br />
 
 
-#
-### 📊 Stats
 
-<table>
+
+<!-- <table>
   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodwanbagdadi&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" />
@@ -33,7 +32,7 @@ I'm a Mechatronics & AI Engineer. I build machine learning projects from scratch
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodwanbagdadi&layout=compact&theme=radical&cache_seconds=86400" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
  #
