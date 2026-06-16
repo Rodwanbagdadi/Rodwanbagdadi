@@ -1,5 +1,5 @@
 # 🏄‍♂️ Rodwan Bagdadi
-Junior Software Developer @ MAKE WORK FLOW GmbH
+Data Analyst & AI Engineer @ MAKE WORK FLOW GmbH
 
 I build and improve customer-facing dashboards using SQL and Metabase, turning complex data into clear insights. I work closely with stakeholders to define KPIs, validate data, and continuously refine dashboards based on real user feedback.
 
